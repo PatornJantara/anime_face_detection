@@ -1,6 +1,6 @@
 # anime_face_detection
 ## anime character face detection using self trained haar cascade
-<br />
+
 **Instruction to create your own Haar cascade**
 <br /><br />Follow below step to complete training your haar cascade
 <br />1. Collect your interested object images in /positive/rawdata folder and unrelated images in negative folder. [The defult is here](http://www.mediafire.com/file/1aq02tpidk105fv/dasar_haartrain.rar/file) 
