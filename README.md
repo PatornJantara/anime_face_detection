@@ -11,7 +11,7 @@
 <br />6. Run 03 convert.bat then you will recieve myhaar.xml as your haar cascade model. Now you can enjoy your object detection
 <br />The efficiency of model will be depend on number of your positive and negative images
 <br /><br /><br />**Here's the results**
-<br />- images
+<br /><br />- images
 <br /><br />![test2 jpg](https://user-images.githubusercontent.com/56642026/74905201-295d9500-53e0-11ea-9396-00cfd06e6f04.png)
 <br /> ![test3 jpg](https://user-images.githubusercontent.com/56642026/74905269-53af5280-53e0-11ea-8c74-5b95542bc183.png)
 <br /><br />- Video
