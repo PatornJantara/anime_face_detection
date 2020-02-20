@@ -13,7 +13,7 @@
 <br /><br /><br />**Here's the results**
 <br /><br />- images
 <br /><br />![test2 jpg](https://user-images.githubusercontent.com/56642026/74905201-295d9500-53e0-11ea-9396-00cfd06e6f04.png)
-<br /> ![test3 jpg](https://user-images.githubusercontent.com/56642026/74905269-53af5280-53e0-11ea-8c74-5b95542bc183.png)
+<br /> ![test1 jpg](https://user-images.githubusercontent.com/56642026/74916869-320e9500-53f9-11ea-859c-666ded7a6a4e.png)
 <br /><br />- Video
 <br /><a href="https://imgflip.com/gif/3pqpsc"><img src="https://i.imgflip.com/3pqpsc.gif" title="made at imgflip.com"/></a>
 <br /><br /> I think it's too hard for haar cascade method to detect motion objects or may be i have to add more images LOL  
