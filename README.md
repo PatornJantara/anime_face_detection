@@ -15,6 +15,6 @@
 <br /><br />![test2 jpg](https://user-images.githubusercontent.com/56642026/74905201-295d9500-53e0-11ea-9396-00cfd06e6f04.png)
 <br /> ![test3 jpg](https://user-images.githubusercontent.com/56642026/74905269-53af5280-53e0-11ea-8c74-5b95542bc183.png)
 <br /><br />- Video
-<br />![3pqp9l](https://user-images.githubusercontent.com/56642026/74913131-a560d880-53f2-11ea-9c74-f3b76d3cb8bb.gif)
-
+<br /><a href="https://imgflip.com/gif/3pqpsc"><img src="https://i.imgflip.com/3pqpsc.gif" title="made at imgflip.com"/></a>
+<br /><br /> I think it's too hard for haar cascade method to detect motion objects. May be i have to add more images LOL  
 
