@@ -16,5 +16,5 @@
 <br /> ![test1 jpg](https://user-images.githubusercontent.com/56642026/74916869-320e9500-53f9-11ea-859c-666ded7a6a4e.png)
 <br /><br />- Video
 <br /><a href="https://imgflip.com/gif/3pqpsc"><img src="https://i.imgflip.com/3pqpsc.gif" title="made at imgflip.com"/></a>
-<br /><br /> I think it's too hard for haar cascade method to detect motion objects or may be i have to add more images LOL  
+<br /><br /> I think it's too hard for haar cascade method to classify face of anime characters or may be i have to add more images LOL  
 
