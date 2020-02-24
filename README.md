@@ -10,7 +10,7 @@
 <br />5. Open **02haarTraining.bat** using nodpad.Change the numper after -npos as number of your image in rawdata folder and -nneg as number of your image in negative folder then save and run (before running be sure that cascade folder is empty)
 <br />6. Run **03 convert.bat** then you will recieve **myhaar.xml** as your haar cascade model. Now you can enjoy your object detection
 <br />The efficiency of model will be depend on number of your positive and negative images
-<br /><br /><br />**Here's the results**
+<br /><br /><br />**Here are results**
 <br /><br />- images
 <br /><br />![test2 jpg](https://user-images.githubusercontent.com/56642026/74905201-295d9500-53e0-11ea-9396-00cfd06e6f04.png)
 <br /> ![test1 jpg](https://user-images.githubusercontent.com/56642026/74916869-320e9500-53f9-11ea-859c-666ded7a6a4e.png)
